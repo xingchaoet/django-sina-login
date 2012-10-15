@@ -1,4 +1,4 @@
-jango VerifyCode
+Django VerifyCode
 =================
 在django中使用新浪微博登陆账号的例子
 
