@@ -1,8 +1,8 @@
-Django VerifyCode
+Django-sina-login
 =================
 在django中使用新浪微博登陆账号的例子
 
-+ 依赖与新浪微博的python SDK
++ 依赖新浪微博的python SDK
 + 需要先申请新浪微博开放平台的开发者账号
 
 demo
